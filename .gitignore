@@ -45,3 +45,7 @@ node_modules
 .next
 .env
 .env.local
+
+# database dumps
+dump.sql
+*.sql
